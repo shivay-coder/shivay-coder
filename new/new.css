@@ -1,0 +1,26 @@
+p{
+    color:red;
+    font-size: 72;
+}
+#p3{
+    color: blue;
+}
+.green-text{
+    color: green;
+}
+#h{
+    font-size: 50px;
+}
+.underline-h{
+    text-decoration: underline;
+}
+h2{
+    color:indigo;
+    font-weight: 1200;
+    /* letter-spacing: 4cm; */
+    margin-bottom: 1em;
+    text-transform: uppercase;
+    
+}
+
+
